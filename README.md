@@ -1,9 +1,9 @@
-[![MasterHead](https://img.freepik.com/free-photo/cool-geometric-triangular-figure-neon-laser-light-great-backgrounds-wallpapers_181624-9331.jpg?w=2000)]
+![MasterHead](https://img.freepik.com/free-photo/cool-geometric-triangular-figure-neon-laser-light-great-backgrounds-wallpapers_181624-9331.jpg?w=1060&t=st=1667827626~exp=1667828226~hmac=14a16b59aeee121078ff15473506022261b6601614eeb2b2914994744db199c4)
 
 <h1 align="center">Hi 👋, I'm Mann Patel</h1>
 <h3 align="center">A passionate Web Designer and Front End Developer from India</h3>
 <img align="right" alt="helloworld" width="400" src="https://media4.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif?cid=ecf05e47ywyrkvh7upo702flf8mg1v8bzsv4u6dtxv624gqm&rid=giphy.gif&ct=g">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mannpatel117&label=Profile%20views&color=0e75b6&style=flat" alt="mannpatel117" /> </p>
+
 
 - 🌱 I’m currently learning **React, React Native**
 
