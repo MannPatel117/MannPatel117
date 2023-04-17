@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mann Patel</h1>
 <h3 align="center">A passionate Web Designer and Front End Developer from India</h3>
-<img align="right" alt="helloworld" width="400" src="https://media4.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif?cid=ecf05e47ywyrkvh7upo702flf8mg1v8bzsv4u6dtxv624gqm&rid=giphy.gif&ct=g">
+
 
 
 - 🌱 I’m currently learning **React, React Native**
