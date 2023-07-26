@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/free-photo/cool-geometric-triangular-figure-neon-laser-light-great-backgrounds-wallpapers_181624-9331.jpg?w=1060&t=st=1667827626~exp=1667828226~hmac=14a16b59aeee121078ff15473506022261b6601614eeb2b2914994744db199c4)
+
 
 <h1 align="center">Hi 👋, I'm Mann Patel</h1>
 <h3 align="center">A passionate Web Designer and Front End Developer from India</h3>
