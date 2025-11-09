@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mann Patel</h1>
-<h3 align="center">A passionate Web Designer and Front End Developer from India</h3>
+<h3 align="center">A passionate Web Designer and Full Stack Developer from India</h3>
 
 
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Angular, Ionic, TypeScript**
 
-- 📫 How to reach me **patel.mann0117@gmail.com**
+- 📫 How to reach me **mannp3005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
